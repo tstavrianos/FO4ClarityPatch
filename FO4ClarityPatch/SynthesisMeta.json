@@ -1,8 +1,8 @@
 {
-  "Nickname": "FO4ClarityPatch",
+  "Nickname": "Clarity Patcher",
   "Visibility": "Visible",
-  "OneLineDescription": "",
-  "LongDescription": "",
+  "OneLineDescription": "Clarity Patcher",
+  "LongDescription": "Alter cell record fog settings to match those of Clarity. Use the settings from either Clarity 3.1 True Storms Version or Clarity 4.2",
   "PreferredAutoVersioning": "Default",
   "RequiredMods": [],
   "TargetedReleases": [
